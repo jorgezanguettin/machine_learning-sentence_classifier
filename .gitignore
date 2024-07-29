@@ -1,2 +1,1 @@
-/datasets/*.csv
-/models/*.pkl
+*.pyc
