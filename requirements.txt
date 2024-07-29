@@ -1,4 +1,4 @@
-nltk==3.8.1
+nltk==3.8.0
 pyspark==3.5.1
 scikit_learn==1.5.1
 scipy==1.14.0
